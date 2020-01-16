@@ -1,121 +1,121 @@
 trial_type    onset         duration      trial_number  stim_file     prompt        response      response_time
-Self           3.073         1             1            self.png      anxious       1              0.532 
-Self           5.807         1             2            self.png      uptight       1              0.298 
-Self           8.541         1             3            self.png      standoffish   2              0.374 
-Self           11.275        1             4            self.png      unattractive  1              0.747 
-Self           13.943        1             5            self.png      proper        2              0.416 
-Self           16.81         1             6            self.png      easy to talk to             2              0.744 
-Self           19.678        1             7            self.png      has weird hobbies           2              0.479 
-Self           22.612        1             8            self.png      sneaky        2              0.678 
-Flanker-Incongruent          27.547        0.8           9            arrows/LeftInCon.jpg        N/A           1              0.562 
-Flanker-Incongruent          31.415        0.8           10           arrows/LeftInCon.jpg        N/A           1              0.37 
-Flanker-Incongruent          35.349        0.8           11           arrows/LeftInCon.jpg        N/A           1              0.467 
-Flanker-Incongruent          38.484        0.8           12           arrows/LeftInCon.jpg        N/A           1              0.544 
-Flanker-Congruent            42.151        0.8           13           arrows/Right100.jpg         N/A           2              0.518 
-Flanker-Congruent            44.819        0.8           14           arrows/Right100.jpg         N/A           2              0.225 
-Other          55.756       1000           15           characters/NancyWheeler.png NancyWheeler has weird hobbies            1              0.616 
-Other          58.69        1000           16           characters/DustinHenderson.png            DustinHenderson critical    2              0.735 
-Other          61.624       1000           17           characters/SteveHarrington.png            SteveHarrington a bad friend              1              0.324 
-Other          64.291       1000           18           characters/JonathanByers.png              JonathanByers has a great personality     2              0.29 
-Other          67.092       1000           19           characters/JimHopper.png    JimHopper anxious           2              0.687 
-Other          69.827       1000           20           characters/MikeWheeler.png  MikeWheeler has a weird nose              1              0.408 
-Other          72.627       1000           21           characters/Eleven.png       Eleven in good shape        2              0.476 
-Other          75.295       1000           22           characters/LucasSinclair.png              LucasSinclair too skinny    2              0.506 
-Flanker-Congruent            80.163        0.8           23           arrows/Right100.jpg         N/A           2              0.311 
-Flanker-Incongruent          83.231        0.8           24           arrows/LeftInCon.jpg        N/A           1              0.543 
-Flanker-Incongruent          86.832        0.8           25           arrows/LeftInCon.jpg        N/A           1              0.495 
-Flanker-Incongruent          90.366        0.8           26           arrows/LeftInCon.jpg        N/A           1              0.204 
-Flanker-Congruent            94.301        0.8           27           arrows/Right100.jpg         N/A           2              0.445 
-Flanker-Incongruent          97.769        0.8           28           arrows/RightInCon.jpg       N/A           2              0.331 
-Malleable      106.838      1000           29           strangers/erik-lucatero-d2MSDujJl2g-unsplash.png        erik-lucatero-d2MSDujJl2g-unsplash pulls pranks         2              0.322 
-Malleable      111.906      1000           30           strangers/oliver-ragfelt-s5zc3NyWVRI-unsplash.png       oliver-ragfelt-s5zc3NyWVRI-unsplash fun-loving          2              0.615 
-Malleable      116.508      1000           31           strangers/ratiu-bia-7fzINre0NQE-unsplash.png            ratiu-bia-7fzINre0NQE-unsplash concerned  2              0.42 
-Malleable      120.976      1000           32           strangers/austin-human-Ec7cHN7ofi0-unsplash.png         austin-human-Ec7cHN7ofi0-unsplash thinks analytically   1              0.4 
-Malleable      126.377      1000           33           strangers/azamat-zhanisov-kWKcLFCHD6w-unsplash.png      azamat-zhanisov-kWKcLFCHD6w-unsplash competitive        1              0.696 
-Malleable      131.779      1000           34           strangers/emile-guillemot-LSP9Tpavbms-unsplash.png      emile-guillemot-LSP9Tpavbms-unsplash honest             1              0.369 
-Malleable      135.38       1000           35           strangers/kelly-sikkema-JN0SUcTOig0-unsplash.png        kelly-sikkema-JN0SUcTOig0-unsplash sensitive            1              0.425 
-Malleable      141.716      1000           36           strangers/stefan-stefancik-QXevDflbl8A-unsplash.png     stefan-stefancik-QXevDflbl8A-unsplash conscientious     1              0.441 
-Flanker-Incongruent          145.783       0.8           37           arrows/RightInCon.jpg       N/A           2              0.445 
-Flanker-Congruent            148.984       0.8           38           arrows/Right100.jpg         N/A           2              0.349 
-Flanker-Congruent            153.386       0.8           39           arrows/Left100.jpg          N/A           1              0.595 
-Flanker-Incongruent          156.787       0.8           40           arrows/LeftInCon.jpg        N/A           1              0.479 
-Flanker-Incongruent          160.855       0.8           41           arrows/LeftInCon.jpg        N/A           1              0.487 
-Flanker-Congruent            163.989       0.8           42           arrows/Right100.jpg         N/A           2              0.504 
-Self           175.259       1             43           self.png      helps others  1              0.329 
-Self           177.993       1             44           self.png      popular       1              0.638 
-Self           180.861       1             45           self.png      driven        1              0.61 
-Self           183.528       1             46           self.png      has a weird nose            2              0.488 
-Self           186.329       1             47           self.png      fast learner  1              0.492 
-Self           188.863       1             48           self.png      has a best friend           1              0.662 
-Self           191.798       1             49           self.png      fun-loving    2              0.325 
-Self           194.465       1             50           self.png      a good leader 1              0.61 
-Flanker-Congruent            199.4         0.8           51           arrows/Right100.jpg         N/A           1              0.359 
-Flanker-Congruent            203.535       0.8           52           arrows/Left100.jpg          N/A           1              0.482 
-Flanker-Congruent            206.202       0.8           53           arrows/Right100.jpg         N/A           2              0.514 
-Flanker-Congruent            208.87        0.8           54           arrows/Right100.jpg         N/A           1              0.444 
-Flanker-Congruent            212.337       0.8           55           arrows/Left100.jpg          N/A           1              0.217 
-Flanker-Incongruent          215.005       0.8           56           arrows/RightInCon.jpg       N/A           2              0.532 
-Other          224.541      1000           57           characters/JoyceByers.png   JoyceByers friendly         2              0.643 
-Other          227.209      1000           58           characters/DustinHenderson.png            DustinHenderson a good leader             1              0.437 
-Other          229.743      1000           59           characters/Eleven.png       Eleven smart  2              0.256 
-Other          232.677      1000           60           characters/LucasSinclair.png              LucasSinclair driven        1              0.454 
-Other          235.678      1000           61           characters/MikeWheeler.png  MikeWheeler goofs off       2              0.487 
-Other          238.545      1000           62           characters/JoyceByers.png   JoyceByers loner            2              0.252 
-Other          241.546      1000           63           characters/JonathanByers.png              JonathanByers uptight       2              0.412 
-Other          244.214      1000           64           characters/SteveHarrington.png            SteveHarrington concerned   1              0.349 
-Flanker-Incongruent          248.815       0.8           65           arrows/RightInCon.jpg       N/A           1              0.363 
-Flanker-Incongruent          252.283       0.8           66           arrows/RightInCon.jpg       N/A           2              0.311 
-Flanker-Congruent            255.084       0.8           67           arrows/Right100.jpg         N/A           2              0.362 
-Flanker-Incongruent          258.352       0.8           68           arrows/RightInCon.jpg       N/A           2              0.283 
-Flanker-Congruent            261.619       0.8           69           arrows/Left100.jpg          N/A           1              0.413 
-Flanker-Incongruent          266.021       0.8           70           arrows/LeftInCon.jpg        N/A           2              0.281 
-Malleable      274.49       1000           71           strangers/luis-villasmil-hh3ViD0r0Rc-unsplash.png       luis-villasmil-hh3ViD0r0Rc-unsplash studious            1              0.579 
-Malleable      279.758      1000           72           strangers/erik-lucatero-d2MSDujJl2g-unsplash.png        erik-lucatero-d2MSDujJl2g-unsplash proper 1              0.48 
-Malleable      284.76       1000           73           strangers/oliver-ragfelt-s5zc3NyWVRI-unsplash.png       oliver-ragfelt-s5zc3NyWVRI-unsplash uptight             2              0.635 
-Malleable      289.495      1000           74           strangers/ratiu-bia-7fzINre0NQE-unsplash.png            ratiu-bia-7fzINre0NQE-unsplash friendly   1              0.733 
-Malleable      294.296      1000           75           strangers/austin-human-Ec7cHN7ofi0-unsplash.png         austin-human-Ec7cHN7ofi0-unsplash standoffish           1              0.263 
-Malleable      299.564      1000           76           strangers/azamat-zhanisov-kWKcLFCHD6w-unsplash.png      azamat-zhanisov-kWKcLFCHD6w-unsplash smart              2              0.274 
-Malleable      304.966      1000           77           strangers/emile-guillemot-LSP9Tpavbms-unsplash.png      emile-guillemot-LSP9Tpavbms-unsplash popular            2              0.692 
-Malleable      308.567      1000           78           strangers/kelly-sikkema-JN0SUcTOig0-unsplash.png        kelly-sikkema-JN0SUcTOig0-unsplash friendless           1              0.747 
-Flanker-Congruent            312.635       0.8           79           arrows/Right100.jpg         N/A           2              0.295 
-Flanker-Congruent            316.903       0.8           80           arrows/Right100.jpg         N/A           2              0.248 
-Flanker-Incongruent          320.571       0.8           81           arrows/LeftInCon.jpg        N/A           1              0.248 
-Flanker-Incongruent          324.505       0.8           82           arrows/LeftInCon.jpg        N/A           2              0.543 
-Flanker-Congruent            327.506       0.8           83           arrows/Right100.jpg         N/A           2              0.528 
-Flanker-Incongruent          330.707       0.8           84           arrows/RightInCon.jpg       N/A           2              0.479 
-Self           341.177       1             85           self.png      overweight    1              0.693 
-Self           343.911       1             86           self.png      poor hygiene  2              0.539 
-Self           346.646       1             87           self.png      has a gross body odor       1              0.391 
-Self           349.58        1             88           self.png      friendly      1              0.264 
-Self           352.114       1             89           self.png      has good hair 1              0.538 
-Self           355.115       1             90           self.png      mean          2              0.551 
-Self           357.916       1             91           self.png      pulls pranks  1              0.677 
-Self           360.583       1             92           self.png      has a great personality     2              0.741 
-Flanker-Congruent            365.585       0.8           93           arrows/Left100.jpg          N/A           1              0.451 
-Flanker-Incongruent          369.653       0.8           94           arrows/RightInCon.jpg       N/A           2              0.322 
-Flanker-Incongruent          372.987       0.8           95           arrows/LeftInCon.jpg        N/A           1              0.511 
-Flanker-Congruent            377.322       0.8           96           arrows/Left100.jpg          N/A           1              0.403 
-Flanker-Congruent            379.856       0.8           97           arrows/Right100.jpg         N/A           2              0.215 
-Flanker-Congruent            384.191       0.8           98           arrows/Right100.jpg         N/A           2              0.532 
-Other          392.326      1000           99           characters/JimHopper.png    JimHopper popular           2              0.565 
-Other          394.994      1000           100          characters/NancyWheeler.png NancyWheeler closed off     1              0.306 
-Other          397.995      1000           101          characters/JimHopper.png    JimHopper overweight        2              0.55 
-Other          400.996      1000           102          characters/LucasSinclair.png              LucasSinclair weak-willed   2              0.453 
-Other          403.597      1000           103          characters/JoyceByers.png   JoyceByers fast learner     2              0.382 
-Other          406.597      1000           104          characters/Eleven.png       Eleven socially awkward     1              0.65 
-Other          409.465      1000           105          characters/MikeWheeler.png  MikeWheeler competitive     2              0.269 
-Other          412.266      1000           106          characters/NancyWheeler.png NancyWheeler studious       1              0.311 
-Flanker-Incongruent          417.201       0.8           107          arrows/RightInCon.jpg       N/A           2              0.527 
-Flanker-Congruent            419.935       0.8           108          arrows/Right100.jpg         N/A           2              0.406 
-Flanker-Congruent            423.603       0.8           109          arrows/Right100.jpg         N/A           2              0.353 
-Flanker-Congruent            427.137       0.8           110          arrows/Left100.jpg          N/A           2              0.26 
-Flanker-Incongruent          430.338       0.8           111          arrows/LeftInCon.jpg        N/A           1              0.296 
-Flanker-Congruent            434.606       0.8           112          arrows/Right100.jpg         N/A           2              0.316 
-Malleable      446.543      1000           113          strangers/stefan-stefancik-QXevDflbl8A-unsplash.png     stefan-stefancik-QXevDflbl8A-unsplash loner             1              0.731 
-Malleable      450.278      1000           114          strangers/luis-villasmil-hh3ViD0r0Rc-unsplash.png       luis-villasmil-hh3ViD0r0Rc-unsplash sneaky              2              0.709 
-Malleable      455.346      1000           115          strangers/erik-lucatero-d2MSDujJl2g-unsplash.png        erik-lucatero-d2MSDujJl2g-unsplash closed off           1              0.353 
-Malleable      460.414      1000           116          strangers/oliver-ragfelt-s5zc3NyWVRI-unsplash.png       oliver-ragfelt-s5zc3NyWVRI-unsplash vain  1              0.377 
-Malleable      465.016      1000           117          strangers/ratiu-bia-7fzINre0NQE-unsplash.png            ratiu-bia-7fzINre0NQE-unsplash weak-willed              1              0.5 
-Malleable      469.417      1000           118          strangers/austin-human-Ec7cHN7ofi0-unsplash.png         austin-human-Ec7cHN7ofi0-unsplash a bad friend          2              0.473 
-Malleable      474.619      1000           119          strangers/azamat-zhanisov-kWKcLFCHD6w-unsplash.png      azamat-zhanisov-kWKcLFCHD6w-unsplash mean 2              0.408 
-Malleable      479.687      1000           120          strangers/emile-guillemot-LSP9Tpavbms-unsplash.png      emile-guillemot-LSP9Tpavbms-unsplash brave              1              0.41 
+Self           3.066         1             1            self.png      studious      2              0.363 
+Self           6             1             2            self.png      sneaky        1              0.692 
+Self           8.734         1             3            self.png      competitive   2              0.523 
+Self           11.268        1             4            self.png      concerned     2              0.547 
+Self           14.203        1             5            self.png      cheats_on_tests             2              0.572 
+Self           16.87         1             6            self.png      conscientious 1              0.602 
+Self           19.871        1             7            self.png      very_stylish  1              0.547 
+Self           22.405        1             8            self.png      closed_off    1              0.562 
+Flanker-Congruent            27.34         0.8           9            arrows/Left100.jpg          N/A           1              0.524 
+Flanker-Congruent            31.675        0.8           10           arrows/Left100.jpg          N/A           1              0.278 
+Flanker-Incongruent          35.209        0.8           11           arrows/RightInCon.jpg       N/A           2              0.534 
+Flanker-Incongruent          38.343        0.8           12           arrows/LeftInCon.jpg        N/A           1              0.411 
+Flanker-Incongruent          42.611        0.8           13           arrows/RightInCon.jpg       N/A           2              0.239 
+Flanker-Congruent            46.346        0.8           14           arrows/Right100.jpg         N/A           2              0.341 
+Other          56.149        1             15           characters/SteveHarrington.png            SteveHarrington_very_stylish              1              0.493 
+Other          58.95         1             16           characters/Eleven.png       Eleven_friendly             1              0.577 
+Other          61.617        1             17           characters/JoyceByers.png   JoyceByers_poor_hygeine     2              0.596 
+Other          64.485        1             18           characters/JonathanByers.png              JonathanByers_a_good_leader 2              0.69 
+Other          67.286        1             19           characters/DustinHenderson.png            DustinHenderson_friendless  1              0.337 
+Other          70.153        1             20           characters/JimHopper.png    JimHopper_has_a_great_personality         1              0.682 
+Other          72.821        1             21           characters/MikeWheeler.png  MikeWheeler_funny           2              0.357 
+Other          75.688        1             22           characters/LucasSinclair.png              LucasSinclair_goofs_off     1              0.574 
+Flanker-Congruent            80.557        0.8           23           arrows/Right100.jpg         N/A           2              0.246 
+Flanker-Congruent            85.025        0.8           24           arrows/Left100.jpg          N/A           1              0.214 
+Flanker-Incongruent          88.892        0.8           25           arrows/RightInCon.jpg       N/A           2              0.212 
+Flanker-Congruent            92.36         0.8           26           arrows/Left100.jpg          N/A           1              0.486 
+Flanker-Incongruent          96.095        0.8           27           arrows/RightInCon.jpg       N/A           2              0.367 
+Flanker-Congruent            99.963        0.8           28           arrows/Left100.jpg          N/A           1              0.546 
+Malleable      108.699       1             29           strangers/erik-lucatero-d2MSDujJl2g-unsplash.png        erik-lucatero-d2MSDujJl2g-unsplash_pulls_pranks         2              0.72 
+Malleable      114.034       1             30           strangers/oliver-ragfelt-s5zc3NyWVRI-unsplash.png       oliver-ragfelt-s5zc3NyWVRI-unsplash_fun-loving          2              0.337 
+Malleable      118.435       1             31           strangers/ratiu-bia-7fzINre0NQE-unsplash.png            ratiu-bia-7fzINre0NQE-unsplash_concerned  2              0.441 
+Malleable      122.97        1             32           strangers/austin-human-Ec7cHN7ofi0-unsplash.png         austin-human-Ec7cHN7ofi0-unsplash_thinks_analytically   1              0.632 
+Malleable      128.238       1             33           strangers/azamat-zhanisov-kWKcLFCHD6w-unsplash.png      azamat-zhanisov-kWKcLFCHD6w-unsplash_competitive        1              0.747 
+Malleable      133.506       1             34           strangers/emile-guillemot-LSP9Tpavbms-unsplash.png      emile-guillemot-LSP9Tpavbms-unsplash_honest             2              0.622 
+Malleable      136.907       1             35           strangers/kelly-sikkema-JN0SUcTOig0-unsplash.png        kelly-sikkema-JN0SUcTOig0-unsplash_sensitive            1              0.619 
+Malleable      143.776       1             36           strangers/stefan-stefancik-QXevDflbl8A-unsplash.png     stefan-stefancik-QXevDflbl8A-unsplash_conscientious     1              0.486 
+Flanker-Congruent            147.844       0.8           37           arrows/Right100.jpg         N/A           2              0.264 
+Flanker-Incongruent          152.112       0.8           38           arrows/RightInCon.jpg       N/A           1              0.416 
+Flanker-Incongruent          155.58        0.8           39           arrows/RightInCon.jpg       N/A           1              0.544 
+Flanker-Incongruent          158.181       0.8           40           arrows/RightInCon.jpg       N/A           2              0.278 
+Flanker-Congruent            162.449       0.8           41           arrows/Right100.jpg         N/A           2              0.516 
+Flanker-Incongruent          165.116       0.8           42           arrows/LeftInCon.jpg        N/A           1              0.405 
+Self           173.185       1             43           self.png      proper        2              0.613 
+Self           175.986       1             44           self.png      honest        2              0.261 
+Self           178.854       1             45           self.png      popular       1              0.351 
+Self           181.654       1             46           self.png      critical      1              0.444 
+Self           184.455       1             47           self.png      anxious       1              0.538 
+Self           187.123       1             48           self.png      mean          2              0.252 
+Self           189.99        1             49           self.png      friendless    2              0.507 
+Self           192.858       1             50           self.png      uptight       1              0.551 
+Flanker-Incongruent          197.593       0.8           51           arrows/RightInCon.jpg       N/A           1              0.477 
+Flanker-Congruent            201.661       0.8           52           arrows/Left100.jpg          N/A           1              0.539 
+Flanker-Incongruent          205.795       0.8           53           arrows/RightInCon.jpg       N/A           2              0.582 
+Flanker-Congruent            208.463       0.8           54           arrows/Left100.jpg          N/A           2              0.512 
+Flanker-Congruent            212.331       0.8           55           arrows/Right100.jpg         N/A           2              0.409 
+Flanker-Congruent            216.332       0.8           56           arrows/Right100.jpg         N/A           2              0.506 
+Other          227.469       1             57           characters/NancyWheeler.png NancyWheeler_fast_learner   1              0.267 
+Other          230.07        1             58           characters/LucasSinclair.png              LucasSinclair_passionate    2              0.692 
+Other          232.737       1             59           characters/NancyWheeler.png NancyWheeler_socially_awkward             1              0.492 
+Other          235.671       1             60           characters/Eleven.png       Eleven_overweight           1              0.534 
+Other          238.606       1             61           characters/SteveHarrington.png            SteveHarrington_sensitive   2              0.397 
+Other          241.406       1             62           characters/DustinHenderson.png            DustinHenderson_dramatic    2              0.472 
+Other          244.007       1             63           characters/JimHopper.png    JimHopper_uptight           1              0.597 
+Other          247.008       1             64           characters/MikeWheeler.png  MikeWheeler_anxious         2              0.361 
+Flanker-Incongruent          251.743       0.8           65           arrows/RightInCon.jpg       N/A           2              0.377 
+Flanker-Incongruent          254.677       0.8           66           arrows/RightInCon.jpg       N/A           2              0.207 
+Flanker-Incongruent          257.345       0.8           67           arrows/LeftInCon.jpg        N/A           1              0.522 
+Flanker-Incongruent          260.079       0.8           68           arrows/RightInCon.jpg       N/A           2              0.457 
+Flanker-Congruent            263.747       0.8           69           arrows/Left100.jpg          N/A           1              0.367 
+Flanker-Incongruent          268.081       0.8           70           arrows/RightInCon.jpg       N/A           2              0.597 
+Malleable      278.885       1             71           strangers/luis-villasmil-hh3ViD0r0Rc-unsplash.png       luis-villasmil-hh3ViD0r0Rc-unsplash_studious            2              0.702 
+Malleable      284.086       1             72           strangers/erik-lucatero-d2MSDujJl2g-unsplash.png        erik-lucatero-d2MSDujJl2g-unsplash_proper 2              0.329 
+Malleable      289.288       1             73           strangers/oliver-ragfelt-s5zc3NyWVRI-unsplash.png       oliver-ragfelt-s5zc3NyWVRI-unsplash_uptight             2              0.704 
+Malleable      293.556       1             74           strangers/ratiu-bia-7fzINre0NQE-unsplash.png            ratiu-bia-7fzINre0NQE-unsplash_friendly   1              0.418 
+Malleable      298.024       1             75           strangers/austin-human-Ec7cHN7ofi0-unsplash.png         austin-human-Ec7cHN7ofi0-unsplash_standoffish           2              0.484 
+Malleable      303.359       1             76           strangers/azamat-zhanisov-kWKcLFCHD6w-unsplash.png      azamat-zhanisov-kWKcLFCHD6w-unsplash_smart              1              0.629 
+Malleable      308.894       1             77           strangers/emile-guillemot-LSP9Tpavbms-unsplash.png      emile-guillemot-LSP9Tpavbms-unsplash_popular            2              0.389 
+Malleable      312.495       1             78           strangers/kelly-sikkema-JN0SUcTOig0-unsplash.png        kelly-sikkema-JN0SUcTOig0-unsplash_friendless           1              0.721 
+Flanker-Incongruent          316.563       0.8           79           arrows/LeftInCon.jpg        N/A           2              0.267 
+Flanker-Congruent            320.698       0.8           80           arrows/Left100.jpg          N/A           1              0.579 
+Flanker-Congruent            324.365       0.8           81           arrows/Left100.jpg          N/A           1              0.465 
+Flanker-Congruent            328.233       0.8           82           arrows/Left100.jpg          N/A           1              0.388 
+Flanker-Incongruent          331.301       0.8           83           arrows/LeftInCon.jpg        N/A           1              0.272 
+Flanker-Incongruent          334.235       0.8           84           arrows/RightInCon.jpg       N/A           2              0.582 
+Self           342.838       1             85           self.png      has_weird_hobbies           1              0.511 
+Self           345.639       1             86           self.png      has_a_best_friend           1              0.353 
+Self           348.44        1             87           self.png      funny         2              0.38 
+Self           351.24        1             88           self.png      driven        2              0.495 
+Self           354.108       1             89           self.png      fast_learner  1              0.642 
+Self           356.909       1             90           self.png      in_good_shape 1              0.404 
+Self           359.576       1             91           self.png      has_good_hair 2              0.485 
+Self           362.444       1             92           self.png      has_a_gross_body_odor       1              0.652 
+Flanker-Incongruent          367.445       0.8           93           arrows/LeftInCon.jpg        N/A           1              0.569 
+Flanker-Congruent            370.58        0.8           94           arrows/Right100.jpg         N/A           2              0.582 
+Flanker-Congruent            373.447       0.8           95           arrows/Right100.jpg         N/A           2              0.208 
+Flanker-Incongruent          376.715       0.8           96           arrows/RightInCon.jpg       N/A           2              0.457 
+Flanker-Congruent            380.649       0.8           97           arrows/Right100.jpg         N/A           2              0.541 
+Flanker-Incongruent          383.317       0.8           98           arrows/RightInCon.jpg       N/A           2              0.413 
+Other          391.653       1             99           characters/JonathanByers.png              JonathanByers_conscientious 2              0.678 
+Other          394.654       1             100          characters/JoyceByers.png   JoyceByers_has_a_weird_nose 2              0.292 
+Other          397.321       1             101          characters/NancyWheeler.png NancyWheeler_concerned      1              0.437 
+Other          399.922       1             102          characters/MikeWheeler.png  MikeWheeler_has_a_best_friend             1              0.6 
+Other          402.723       1             103          characters/JonathanByers.png              JonathanByers_in_good_shape 2              0.296 
+Other          405.724       1             104          characters/JimHopper.png    JimHopper_brave             2              0.714 
+Other          408.258       1             105          characters/LucasSinclair.png              LucasSinclair_apathetic     1              0.672 
+Other          410.792       1             106          characters/JoyceByers.png   JoyceByers_helps_others     2              0.369 
+Flanker-Congruent            415.66        0.8           107          arrows/Right100.jpg         N/A           2              0.548 
+Flanker-Congruent            419.595       0.8           108          arrows/Right100.jpg         N/A           2              0.344 
+Flanker-Congruent            423.063       0.8           109          arrows/Left100.jpg          N/A           1              0.361 
+Flanker-Incongruent          425.797       0.8           110          arrows/RightInCon.jpg       N/A           2              0.429 
+Flanker-Incongruent          430.132       0.8           111          arrows/RightInCon.jpg       N/A           2              0.299 
+Flanker-Incongruent          434.266       0.8           112          arrows/RightInCon.jpg       N/A           1              0.236 
+Malleable      448.137       1             113          strangers/stefan-stefancik-QXevDflbl8A-unsplash.png     stefan-stefancik-QXevDflbl8A-unsplash_loner             1              0.701 
+Malleable      452.072       1             114          strangers/luis-villasmil-hh3ViD0r0Rc-unsplash.png       luis-villasmil-hh3ViD0r0Rc-unsplash_sneaky              1              0.276 
+Malleable      457.607       1             115          strangers/erik-lucatero-d2MSDujJl2g-unsplash.png        erik-lucatero-d2MSDujJl2g-unsplash_closed_off           2              0.438 
+Malleable      462.542       1             116          strangers/oliver-ragfelt-s5zc3NyWVRI-unsplash.png       oliver-ragfelt-s5zc3NyWVRI-unsplash_vain  2              0.383 
+Malleable      467.21        1             117          strangers/ratiu-bia-7fzINre0NQE-unsplash.png            ratiu-bia-7fzINre0NQE-unsplash_weak-willed              2              0.302 
+Malleable      472.145       1             118          strangers/austin-human-Ec7cHN7ofi0-unsplash.png         austin-human-Ec7cHN7ofi0-unsplash_a_bad_friend          2              0.518 
+Malleable      477.279       1             119          strangers/azamat-zhanisov-kWKcLFCHD6w-unsplash.png      azamat-zhanisov-kWKcLFCHD6w-unsplash_mean 1              0.672 
+Malleable      482.548       1             120          strangers/emile-guillemot-LSP9Tpavbms-unsplash.png      emile-guillemot-LSP9Tpavbms-unsplash_brave              1              0.51 
