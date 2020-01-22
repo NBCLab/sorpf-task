@@ -3,11 +3,9 @@ import json
 events_description = {
     'prompt': {
         'LongName': 'Trial prompt',
-        'Description': ('Emotional valence of the image.'),
-        'Levels': {
-            'Negative': 'Image is negative.',
-            'Neutral': 'Image is neutral.'
-        }
+        'Description': ('Trial prompt. Spaces are replaced with underscores. '
+                        'The first word is the target (presented as an image '
+                        'in the task).'),
     },
     'response': {
         'LongName': 'Participant response',

@@ -1,0 +1,16 @@
+{
+    "prompt": {
+        "Description": "Trial prompt. Spaces are replaced with underscores. The first word is the target (presented as an image in the task).",
+        "LongName": "Trial prompt"
+    },
+    "response": {
+        "Description": "The button pressed by the participant.",
+        "Levels": {
+            "1": "Image is calm",
+            "2": "Image is somewhat calm",
+            "3": "Image is somewhat intense",
+            "4": "Image is intense"
+        },
+        "LongName": "Participant response"
+    }
+}
