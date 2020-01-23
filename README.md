@@ -1,5 +1,7 @@
 # sorpf-task
-The Self and Other Referential Processing and Flanker (SORPF) task in E-Prime
+The Dual Self and Other Referential Processing/Flanker (SORPF) task in E-Prime
+
+This task combines the self and other referential processing task and the [Ericson flanker task](https://cognitiveatlas.org/task/id/tsk_4a57abb949a4f/).
 
 ## Implementation Notes
 1. This task is set up to work with FIU's scanner's BioPac.
