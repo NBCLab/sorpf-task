@@ -33,4 +33,4 @@ df.to_csv('example_data/sub-777_ses-1_task-SORPF_run-1.tsv', sep='\t',
           line_terminator='\n', na_rep='n/a', index=False)
 ```
 ## References
-1. Alarcón, G., Pfeifer, J. H., Fair, D. A., & Nagel, B. J. (2018). Adolescent Gender Differences in Cognitive Control Performance and Functional Connectivity Between Default Mode and Fronto-Parietal Networks Within a Self-Referential Context. Frontiers in behavioral neuroscience, 12, 73. doi:10.3389/fnbeh.2018.00073
+1. Alarcón, G., Pfeifer, J. H., Fair, D. A., & Nagel, B. J. (2018). Adolescent Gender Differences in Cognitive Control Performance and Functional Connectivity Between Default Mode and Fronto-Parietal Networks Within a Self-Referential Context. <i>Frontiers in behavioral neuroscience</i>, 12, 73. doi:10.3389/fnbeh.2018.00073
