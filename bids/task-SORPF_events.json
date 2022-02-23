@@ -4,10 +4,10 @@
         "LongName": "Trial prompt"
     },
     "response": {
-        "Description": "The button pressed by the participant.",
+        "Description": "The button pressed by the participant. Meaning of the button press changes between self/other/malleable trials and Flanker trials.",
         "Levels": {
-            "1": "Yes",
-            "2": "No"
+            "1": "Yes/Left",
+            "2": "No/Right"
         },
         "LongName": "Participant response"
     }
