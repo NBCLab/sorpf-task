@@ -10,5 +10,16 @@
             "2": "No/Right"
         },
         "LongName": "Participant response"
+    },
+    "trial_type": {
+        "Description": "Trial type, which may fall under either the SORP or Flanker portions of the task.",
+        "Levels": {
+            "Self": "Evaluate whether the prompt describes the participant.",
+            "Other": "Evaluate whether the prompt describes the character presented.",
+	    "Malleable": "Evaluate whether or not the extent to which the prompt applies to any general person can change over time.",
+            "Flanker-Congruent": "A congruent trial of the Flanker portion of the task.",
+            "Flanker-Incongruent": "An incongruent trial of the Flanker portion of the task."
+        },
+        "LongName": "Trial type"
     }
 }
